@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "alien-invasion"
 version = "0.1.0"
-description = ""
+description = "a fun game to play"
 authors = ["Amena Mabrouk <mabrouk.amena@gmail.com>"]
 readme = "README.md"
 packages = [{include = "alien_invasion"}]

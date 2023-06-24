@@ -64,7 +64,6 @@ class HummerGame:
         # make the most recently drawn screen visible 
         pygame.display.flip()    
                   
-
 # ************************************************************************************
 # ********************************** SETTINGS CLASS **********************************
 class Settings: 
